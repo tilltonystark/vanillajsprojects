@@ -12,3 +12,4 @@ Made by following a tutorial by [freecodecamp](freecodecamp.org)
 
 ### 2. Counter
 You can see this live [👉here](https://tilltonystarkcounter.netlify.app/)
+![image](https://user-images.githubusercontent.com/89836460/148680612-55a6e53c-78e1-4d20-9c30-073039fe3d09.png)
